@@ -1,0 +1,29 @@
+dx is gridzone
+numerical error acts like a viscosity
+timesteps updated as needed, time is not a matrix ; Euler/backwards Euler 
+
+explicit method: calculate the state of a system at a later time from the state of the system at the current time
+implicit method: find a solution by solving an eqn involving both the current state of the system and the later one
+
+HYPERBOLIC_PDE
+	waves of one form or another : advection is hyperbolic
+	superposition of waves can lead to dispersion, dissipation (dv dAmp)
+	transmits discontinuities
+	compressible fluids (may have shocks)
+	-FTCS is unconditionally unstable; therefore use CTCS (centered time, ce	ntered space)
+
+   CTCS 
+	conditions: 
+		dt=dx/(Tg/w)^.5 , equality
+   leap frog: needs artificial viscosity, used for incompressible flow
+	
+
+ELLIPTIC
+	could write the solution as fourier waves
+
+ALIASING
+	source of error due to discretization
+	higher unresolved wavelengths can not always be distinguished from lower	   ~~nonlinear interactions can cause power to reflect, method becomes unst	      able
+	
+TECHNIQUES FOR MULTIPLE DIMENSIONS/OPERATORS
+	

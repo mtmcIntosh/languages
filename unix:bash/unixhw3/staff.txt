@@ -1,0 +1,39 @@
+Allison, Christopher G.     (cga4d)   Staff      UVa Physicians Group
+   Branin, Christopher         (cgb5r)   Staff      MD-Dmed Finance and Human R
+   Cheatham, Charlotte G.      (cgc7r)   Staff      MC-Medicine Speciality
+   Cunningham, Ceil G.         (cgc4w)   Staff      MC-Medical Computing Client
+   Easton, Christopher G.      (cge2n)   Staff      Co-Police Dept
+   Exline, Charlene G.         (cge7u)   Staff      UVa Physicians Group
+   Fleming, Catherine G.       (cgf5cd)  Staff      As-English/Eng Lit Ops
+   Friedman, Carolyn G.        (cgf2s)   Staff      UVa Physicians Group
+   Garcia Galindo, Carlos      (cg5rh)   Staff      MC-Medical Computing Client
+   Gardner, Carter             (cg4da)   Staff      MC-Medical Computing Client
+   Garrett, Cara B.            (cg3hf)   Staff      UVa Physicians Group
+   Garrison, Charles G.        (cgg8r)   Staff      Rs-Envir Health/Safety
+   Garwood, Cynthia            (cg9re)   Staff      Bu-University Bookstore
+   Gathers, Chad M.            (cg5zd)   Staff      MC-Therapy Services
+   Gendron-Elegba, Corina      (cg5je)   Staff      Fi-Student Financial Servic
+   Gherghe, Cristina           (cg3av)   Staff      MC-Interns/Residents
+   Gilmore, Carl J.            (cg2jp)   Staff      MC-Interns/Residents
+   Gioia, Christopher          (cg5cd)   Staff      MC-Interns/Residents
+   Good, Caitlyn               (cg3de)   Staff      MC-Medical Laboratories
+   Grabowski, Cappy            (cg5c)    Staff      Dv-Miller Center
+   Grayson, Chanel L.          (cg6rh)   Staff      Medicine-Surgery Dept
+   Griffith, Connie            (cg4gf)   Staff      MC-Medical Computing Client
+   Grindstaff, Carl            (cg4bt)   Instructr  Pv-Summer Session
+   Gross, Christopher          (cg7fj)   Staff      Fm-Health Sys Pp Zone 1
+   Groth, Christopher L.       (cg5yg)   Staff      MC-Interns/Residents
+   Guerrero-Urbanski, Carol    (cg2cq)   Staff      MD-Psch Psychiatry and Nb S
+   Gum, Carlos R.              (cg3v)    Staff      MC-Family Care Center
+   Gumm, Carrie P.             (cg2b)    Staff      MD-Humn Ctr for Biomed Ethi
+   Harris, Cynthia G.          (cgh4m)   Staff      MC-8 East/or
+   Mallory, Calvin             (cgm2d)   Staff      Rs-VP for Research
+   Napier, Cynthia G.          (cgn5w)   Staff      MC-Dermatology
+   Nichols, Calvin G.          (cgn2d)   Staff      MC-Medical Computing Client
+   Oxman, Courtney G.          (cgo2n)   Staff      Co-Audit Dept
+   Riddick, Catharine G.       (cgr4a)   Staff      at-Im-Fitness
+   Shearer, Cynthia G.         (cgs6u)   Staff      MC-Medical Laboratories
+   Smith, Crystal G.           (cgs8d)   Staff      Lw-Law School Central
+   Stallard, Crystal G.        (cgs5r)   Staff      MC-Neuro Intensive Care
+   Whitcomb, Cornelia G.       (cgw3c)   Staff      MC-UVa Outpatient Surgery C
+   Williams, Colleen G.        (cgw2w)   Staff      MC-Cancer Center Clinic

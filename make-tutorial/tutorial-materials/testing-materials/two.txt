@@ -1,0 +1,4 @@
+# Our data file
+Date,Species,Count
+2012.04.28,marlin,2
+2012.04.28,turtle,1

@@ -1,0 +1,68 @@
+1. a)
+What is the semimajor-axis (in.) of the prolate spheroid? (x to quit)
+12.3
+
+What is the semiminor-axis (in.) of the prolate spheroid? (x to quit)
+9.2
+
+For a prolate spheroid of long axis 12.3 and short axis of 9.2, 
+the volume is 3270.624
+
+Find another volume?
+
+1. b)
+What is the semimajor-axis (in.) of the prolate spheroid? (x to quit)
+-3.3
+
+What is the semiminor-axis (in.) of the prolate spheroid? (x to quit)
+1.2
+Exiting program because one or more axis is less than or equal to zero. Please check parameters and run again.
+
+1. c)
+What is the semimajor-axis (in.) of the prolate spheroid? (x to quit)
+5.4
+
+What is the semiminor-axis (in.) of the prolate spheroid? (x to quit)
+-2.0
+Exiting program because one or more axis is less than or equal to zero. Please check parameters and run again.
+
+
+2. a)
+What is the population of the city? (x to quit)
+5,000
+This is a small town.
+
+2. b)
+What is the population of the city? (x to quit)
+100,000
+This is a medium city.
+
+2. c)
+What is the population of the city? (x to quit)
+101,000
+This is a medium city.
+
+2. d)
+What is the population of the city? (x to quit)
+1,000,001
+This is a large city.
+
+3. a)
+Please supply a word (x to quit): 
+denominate
+Word is rejected.
+
+3. b)
+Please supply a word (x to quit): 
+unnoticeable
+Word is accepted.
+
+3. c)
+Please supply a word (x to quit): 
+deteriorate
+Word is accepted.
+
+3. d)
+Please supply a word (x to quit): 
+literal
+Word is rejected.

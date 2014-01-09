@@ -1,0 +1,19 @@
+import pylab as plt
+from matplotlib import cm
+from mpl_toolkits.mplot3d import proj3d
+
+
+def 3dplots(lon, lat, grid, title, Xaxis, Yaxis, saveas, *):
+
+   X,Y = np.meshgrid(x, y)
+   Z=grid
+   
+   fig = plt.figure()
+   ax = fig.gca(projection='3d')
+   ax.plot_surface(X, Y, Z, rstride=8, cstride=8, alpha=0.3)
+   cset = ax.contour(X, Y, Z, cmap=cm.coolwarm)
+   ax.clabel(cset,  fontsize=9, inline=1)
+   plt.title(title, fontsize=14, fontweight='bold')
+   plt.xlabel(Xaxis)
+   plt.ylabel(Yaxis)
+   fig.savefig(saveas'.png')

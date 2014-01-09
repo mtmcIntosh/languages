@@ -1,0 +1,25 @@
+#For this project you will write a class to compute a few statistics about text files.  Call this #class Wordstats.
+
+#The member attribute of Wordstats will be a dictionary.  This dictionary will use the words in the #file as keys and will be set up to count the number of times each word appears and assign that to the #value of that key.  Attached to this assignment is a file ignore_words.txt providing a list of words #that you should not store in your dictionary.  You can cut and paste the contents of ignore_words.txt #into an appropriate location in your class.  Ignore case (there is a string method to make this #easy).  Remove punctuation (. , ; : ? !).   You can give strip a set of characters, it does not work #only for single characters.
+
+#Aside from the constructor the class should contain these methods:
+
+#number_unique which will return the number of unique words in the file (not counting the ignored #ones)
+
+#frequencies which will optionally take a number N and return the Nth most frequently-used words in #the file, in descending order of frequency.  If N is not provided it will return a list of all the #words.
+
+#match_words which takes a list of words and returns a list of the words in the dictionary that match #the input list, along with the number of matches.
+
+#histogram which takes a number N and plots the histogram of the Nth most frequent words.
+
+#You will need to study a bit about dictionaries.  They are quite easy once you get the hang of them, #and we don't require any advanced features for this project.  You will need to understand the in #operator for keys e.g.
+
+#if key in dictionary
+
+#is a common operation.
+
+#For frequencies look into the intrinsic sorted 
+
+#Some of these methods will be very short.
+
+Download the files jadams.txt and jqadams.txt from the Resources/Data/FP_HW/HW8 folder.  These are the inaugural addresses of second President John Adams and of his son John Quincy Adams, the sixth President.  Write a program that uses your Wordstats class to produce histograms of the 25 most frequent words in each speech.  Print the number of unique words in each speech.  Print the number of words that overlap.

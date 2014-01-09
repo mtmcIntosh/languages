@@ -1,0 +1,5 @@
+Time (ps),Event,x position,y position,Running Coverage - A,Running Coverage - B,empty sites,% coverage
+0.0,start,0,0,0,0,20,100.0
+6.2423714120128855,k_A,2,2,1,0,19,95.0
+6.7344889851563794,k_A,2,16,2,0,18,90.0
+11.06655287704206,k_A,2,4,3,0,17,85.0

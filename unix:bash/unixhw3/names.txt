@@ -1,0 +1,128 @@
+
+   Allison, Christopher G.     (cga4d)   Staff      UVa Physicians Group
+   Aplin, Christopher Graham   (cga4hw)  Undergrad  Engineering Undergraduate
+   Baltera, Constance Gretchen (cgb2k)   Grad       Arts & Sciences Graduate
+   Bateman, Charleene Garner   (cgb4u)   Cont Educ  Scps Graduate Non-Degree
+   Benham, Claude Gregory      (cgb2q)   Faculty    MD-Psch Psychiatry and Nb S
+   Branin, Christopher         (cgb5r)   Staff      MD-Dmed Finance and Human R
+   Breimann, Catherine Greenwa (cgb5bv)  Undergrad  Arts & Sciences Undergradua
+   Briscoe, Christina Gray     (cgb4mv)  Grad       Medicine
+   Brooks, Cierra Grace        (cgb2fe)  Undergrad  Arts & Sciences Undergradua
+   Brownrigg, Carter Grant     (cgb2ba)  Grad       Education Graduate
+   Cheatham, Charlotte G.      (cgc7r)   Staff      MC-Medicine Speciality
+   Cunningham, Ceil G.         (cgc4w)   Staff      MC-Medical Computing Client
+   Cutler, Carol Gertrude      (cgc5m)   Cont Educ  Scps Non-Credit Non-Degree
+   Dawson, Charlotte Grace     (cgd4bs)  Undergrad  Arts & Sciences Undergradua
+   Detmer-Lillard, Chaney Galt (cgd7zt)  Undergrad  Arts & Sciences Undergradua
+   Durbin, Charles G.          (cgd8v)   Faculty    MD-Anes Anesthesiology
+   Easton, Christopher G.      (cge2n)   Staff      Co-Police Dept
+   Engel, Carmen Georgette     (cge7sw)  Undergrad  Education Undergraduate
+   Exline, Charlene G.         (cge7u)   Staff      UVa Physicians Group
+   Fleming, Catherine G.       (cgf5cd)  Staff      As-English/Eng Lit Ops
+   Forsgren, Christopher Georg (cgf8bs)  Undergrad  Arts & Sciences Undergradua
+   Friedman, Carolyn G.        (cgf2s)   Staff      UVa Physicians Group
+   Gaffney, Cloyd              (cg7cs)   Undergrad  UVa College at Wise
+   Gale, Christopher           (cg)      Faculty    
+   Galea, Christopher          (cg5ka)   Instructr  Pv-Summer Session
+   Gallagher, Cynthia          (cg7pa)   Grad       Education Graduate Non-Degr
+   Gan, Chee Chun              (cg8pa)   Grad       Engineering Graduate
+   Gan, Chenqian               (cg5pe)   Grad       Engineering Graduate
+   Gao, Cunyuan                (cg8ye)   Undergrad  Commerce Undergraduate
+   Garcia, Carmen              (cg7td)   Cont Educ  Scps Undergraduate Non-Degr
+   Garcia Galindo, Carlos      (cg5rh)   Staff      MC-Medical Computing Client
+   Gardner, Carter             (cg4da)   Staff      MC-Medical Computing Client
+   Garrett, Cara B.            (cg3hf)   Staff      UVa Physicians Group
+   Garriott, Clete             (cg4af)   Cont Educ  Scps Graduate Non-Degree
+   Garrison, Charles G.        (cgg8r)   Staff      Rs-Envir Health/Safety
+   Garwood, Cynthia            (cg9re)   Staff      Bu-University Bookstore
+   Gathers, Chad M.            (cg5zd)   Staff      MC-Therapy Services
+   Gecker, Caroline Grace      (cgg9zb)  Undergrad  Arts & Sciences Undergradua
+   Gendron-Elegba, Corina      (cg5je)   Staff      Fi-Student Financial Servic
+   Ghaemmaghami, Chris A.      (cg3n)    Faculty    MD-Emed Emergency Medicine
+   Gherghe, Cristina           (cg3av)   Staff      MC-Interns/Residents
+   Ghosh, Chowkas              (cg4bd)   Undergrad  Engineering Undergraduate
+   Gibson, Clint               (cg5kn)   Grad       Education Graduate Non-Degr
+   Gibson Busching, Carol      (cg4uf)   Cont Educ  Scps Graduate Non-Degree
+   Gilchrist, Carol A.         (cg2p)    Faculty    MD-Inmd Infectious Dis
+   Gillespie, Carolyn          (cg9je)   Instructr  Pv-Summer Session
+   Gilmore, Carl J.            (cg2jp)   Staff      MC-Interns/Residents
+   Gioia, Christopher          (cg5cd)   Staff      MC-Interns/Residents
+   Giorcelli, Christina        (cg4hf)   Instructr  As-Classics
+   Glover, Charles             (cg7zj)   Cont Educ  Scps Graduate Non-Degree
+   Gong, Chen                  (cg9ak)   Undergrad  Arts & Sciences Undergradua
+   Good, Caitlyn               (cg3de)   Staff      MC-Medical Laboratories
+   Goodnight, Christy          (cg6tp)   Instructr  Pv-Summer Session
+   Gordon, Callum              (cg4xz)   Undergrad  Architecture Undergraduate
+   Gorham, Caroline            (cg6ww)   Grad       Engineering Graduate
+   Grabowski, Cappy            (cg5c)    Staff      Dv-Miller Center
+   Graverson, Christopher      (cg4rd)   Cont Educ  Scps Graduate Non-Degree
+   Gray, Cynthia               (cg4eq)   Grad       Education Graduate
+   Grayson, Chanel L.          (cg6rh)   Staff      Medicine-Surgery Dept
+   Griffith, Connie            (cg4gf)   Staff      MC-Medical Computing Client
+   Grindstaff, Carl            (cg4bt)   Instructr  Pv-Summer Session
+   Gross, Christopher          (cg7fj)   Staff      Fm-Health Sys Pp Zone 1
+   Groth, Christopher L.       (cg5yg)   Staff      MC-Interns/Residents
+   Grover, Christopher Garrett (cgg4vr)  Undergrad  Arts & Sciences Undergradua
+   Gu, Chao                    (cg2ja)   Grad       Arts & Sciences Graduate
+   Guerrero-Urbanski, Carol    (cg2cq)   Staff      MD-Psch Psychiatry and Nb S
+   Guerron Montero, Carla      (cg7zd)   Instructr  Pv-Summer Session
+   Gum, Carlos R.              (cg3v)    Staff      MC-Family Care Center
+   Gumm, Carrie P.             (cg2b)    Staff      MD-Humn Ctr for Biomed Ethi
+   Gutierrez  Lacayo, Carolina (cg5nb)   Undergrad  Architecture Undergraduate
+   Hall, Christie Grace        (cgh4e)   Cont Educ  Scps Graduate Non-Degree
+   Harris, Cynthia G.          (cgh4m)   Staff      MC-8 East/or
+   Hart, Charles Griffin       (cgh4a)   Cont Educ  Scps Non-Credit Non-Degree
+   Hastings, Cary Garland      (cgh6f)   Grad       Education Graduate
+   Henis, Cara Grace           (cgh7sb)  Grad       Law
+   Higby, Christopher Graham   (cgh5a)   Grad       Law
+   Hoffman, Charles Gary       (cgh6de)  Cont Educ  Scps Non-Credit Non-Degree
+   Horter, Charles Griffin     (cgh3cv)  Undergrad  Arts & Sciences Undergradua
+   Howard, Caroline Grace      (cgh3sy)  Undergrad  Arts & Sciences Undergradua
+   Hurdle, Claudette Gravely   (cgh9e)   Cont Educ  Scps Graduate Non-Degree
+   Keene, Crystal Gail         (cgk8r)   Cont Educ  Scps Graduate Non-Degree
+   Kelly, Caroline Grace       (cgk7xf)  Undergrad  Arts & Sciences Undergradua
+   Kurzenknabe, Catherine G.   (cgk3e)   Cont Educ  Scps Graduate Non-Degree
+   Ladner, Christopher Gerard  (cgl4at)  Grad       Law
+   Lally, Colleen Gale         (cgl8k)   Grad       Education Graduate
+   Langsfeld, Catherine Grace  (cgl8fu)  Undergrad  Arts & Sciences Undergradua
+   Lefler, Christopher Grant   (cgl9b)   Grad       Arts & Sciences Graduate
+   Leonard, Catherine Grace    (cgl4p)   Undergrad  UVa College at Wise
+   Mahoney, Caitlin Grace      (cgm5m)   Cont Educ  Scps Undergraduate Non-Degr
+   Mallory, Calvin             (cgm2d)   Staff      Rs-VP for Research
+   Maurelli, Cecile Genevieve  (cgm5by)  Undergrad  Arts & Sciences Undergradua
+   McDowell, Caroline Grace    (cgm9ja)  Undergrad  Arts & Sciences Undergradua
+   McLean, Christopher Grey    (cgm3b)   Cont Educ  Scps Non-Credit Non-Degree
+   McRorie, Christina G.       (cgm2hc)  Grad       Arts & Sciences Graduate
+   Mumford, Cara Grace         (cgm6nt)  Undergrad  Arts & Sciences Undergradua
+   Murtagh, Catherine Grace    (cgm4qg)  Undergrad  Arts & Sciences Undergradua
+   Naff, Caleb Gray            (cgn7x)   Undergrad  UVa College at Wise
+   Napier, Cynthia G.          (cgn5w)   Staff      MC-Dermatology
+   Naylor, Caitlin Gayle Coope (cgn5q)   Grad       Arts & Sciences Graduate
+   Newlon, Cynthia J.          (cgp6d)   Faculty    Ws-Dean Of Faculty
+   Nichols, Calvin G.          (cgn2d)   Staff      MC-Medical Computing Client
+   Odom, Clarence Guy, iv      (cgo3tc)  Grad       Education Graduate
+   Orshek, Cynthia G.          (cgo3w)   Faculty    Cp-Ctr for Exe Dev
+   Oxman, Courtney G.          (cgo2n)   Staff      Co-Audit Dept
+   Pereira, Carlos Guedes      (cgp7nc)  Undergrad  Arts & Sciences Undergradua
+   Quillen, Connie Gail        (cgq2w)   Undergrad  UVa College at Wise
+   Reyes, Christian Gabriel    (cgr6de)  Undergrad  Arts & Sciences Undergradua
+   Riddick, Catharine G.       (cgr4a)   Staff      at-Im-Fitness
+   Schroeder, Catherine Grace  (cgs6wb)  Undergrad  Arts & Sciences Undergradua
+   Scott, Christine G.         (cgs6x)   Cont Educ  Scps Non-Credit Non-Degree
+   Shamiyeh, Caline Gabriella  (cgs7cr)  Undergrad  Arts & Sciences Undergradua
+   Shaw, Carl G.               (cgs5w)   Faculty    En-Mech/Aero Engr Dept
+   Shearer, Cynthia G.         (cgs6u)   Staff      MC-Medical Laboratories
+   Smith, Carol Gay            (cgs3v)   Grad       Education Graduate
+   Smith, Crystal G.           (cgs8d)   Staff      Lw-Law School Central
+   Stallard, Crystal G.        (cgs5r)   Staff      MC-Neuro Intensive Care
+   Thai-Pappa, Christine Grace (cgt3n)   Cont Educ  Scps Graduate Non-Degree
+   Thomas, Christianne Grace   (cgt3x)   Undergrad  Arts & Sciences Undergradua
+   Webb, Christopher George    (cgw7ub)  Undergrad  Arts & Sciences Undergradua
+   Whitcomb, Cornelia G.       (cgw3c)   Staff      MC-UVa Outpatient Surgery C
+   Williams, Chelsea Gabrielle (cgw7ax)  Undergrad  Arts & Sciences Undergradua
+   Williams, Colleen G.        (cgw2w)   Staff      MC-Cancer Center Clinic
+   Wilson, Carrie Gosnell      (cgw2c)   Cont Educ  Scps Graduate Non-Degree
+
+To single out one record, look it up with "!xxx", where xxx is the handle,
+shown in parenthesis following the name.  See also: "whois help".
+

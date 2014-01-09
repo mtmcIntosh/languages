@@ -1,0 +1,21 @@
+# pdbprocess.mk - Caroline Gorham
+# dependencies, what the make file is doing
+
+all: cubane.pdb.data ethane.pdb.data methane.pdb.data \
+octane.pdb.data pentane.pdb.data propane.pdb.data
+
+cubane.pdb.data : cubane.pdb 
+	./process_pdb.sh cubane.pdb > cubane.pdb.data
+ethane.pdb.data : ethane.pdb
+	./process_pdb.sh ethane.pdb > ethane.pdb.data
+methane.pdb.data : methane.pdb
+	./process_pdb.sh methane.pdb > methane.pdb.data
+octane.pdb.data : octane.pdb
+	./process_pdb.sh octane.pdb > octane.pdb.data
+pentane.pdb.data : pentane.pdb
+	./process_pdb.sh pentane.pdb > pentane.pdb.data
+propane.pdb.data : propane.pdb
+	./process_pdb.sh propane.pdb > propane.pdb.data
+
+info : 
+	echo pdbprocess.mk

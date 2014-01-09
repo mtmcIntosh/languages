@@ -1,0 +1,12 @@
+# Our data file
+Date,Species,Count
+2012.04.28,marlin,2
+2012.04.28,turtle,1
+2012.04.28,shark,3
+2012.04.27,marlin,4
+2012.04.27,pike,1
+2012.04.26,trout,4
+2012.04.26,carp,2
+2012.04.20,seabass,3
+2012.04.20,mackerel,2
+2012.04.20,shark,2

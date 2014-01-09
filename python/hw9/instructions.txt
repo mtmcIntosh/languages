@@ -1,0 +1,16 @@
+
+Python: run it as
+
+python original.py input-10000.txt .1
+
+Paste the output into the Collab text box.  Keep track of these results.  Do not overwrite your original code; make a copy for your changes.
+
+For your appropriate language, run the profiler.  Save the output from the profiler into a file and upload the file to the assignment. 
+
+Do your best to optimize the code.  Write a description of the steps you took and why you did so. 
+
+Upload your improved code to Collab.  Compute the speedup factor  new_code_time/old_code_time
+
+Paste the output from the new code into the Collab textbox to show that your new code gets the same result as the old one.  (In particular, the number of pairs should agree exactly or you have done something wrong.)
+
+Note: you will not be graded on how much faster you can make the code (except that you should succeed in making it at least somewhat faster).  You will be graded on your documentation of the procedure you applied.

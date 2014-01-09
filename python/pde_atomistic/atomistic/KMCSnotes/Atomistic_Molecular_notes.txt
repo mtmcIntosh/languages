@@ -1,0 +1,78 @@
+Matt Neurock
+
+Energy is the direct function of the exact position of all atoms and forces on the atoms
+
+force field, potential force
+intra molecular 
+	-bond length
+	-bond angle
+	-torsion angle
+
+inter/intra molecular
+	-coulomb interactions
+	-van der waals
+
+V_t=V_r+V_theta+V_phi +V_c+V_vDW
+
+Monte Carlo
+	- incorporation of thermodynamics
+	- dynamic progression through time
+	
+DIFFERENT WAYS IN WHICH PARTICLES DEFINE THE SYSTEM:
+cononical - constant parameters, what is the other parameter (lowest energy configuration) ensure the thermodynamic properties are obeyed
+grand cononical - number of particles are allowed to change 
+configurationally biased MCsimulation, must correct for ignored configurations
+Gibbs ensemble MCsimulation
+
+MD - how things change with time
+Newton's laws of motion
+force is the derivative of potential energy 
+~~groteous method
+
+SIMULATION OF KINETIC PROCESSES
+
+deterministic
+	-averaging rate equations
+	-dC/dt = -k * C_a
+
+stochastic kinetics
+	-probablilty that system moves from one state to the next
+	-concentration*rate_constant
+	**must hold detailed balance
+
+	-Master Equation(probability that system moves fom one state to the next)
+		-optimize system to 
+		-analytical solution (can only be solved for few systems)
+		-numerical soludtion (dynamic/kinetic MCS)
+
+	**** extension of eq. methods -Metropolis methos- 1953
+	****Beeler - 1966 Radiation Damage
+	**** Algorithm develoment: 1. 1975 Bortz, Kalos, Lebowitx (BKL) - surfaces (physics)
+				   2. 1976 Gillespie = well mixed systems
+
+	Dynamic (kinetic) MC sim
+		-fixed time step (time space)
+			probability that A reacts to B  -- P_ab = 1-exp(-k_ab * dt)
+			**drawbacks for fixed time, multistep processes are not allowed to 
+			  continue to react within the time step 
+			~ know all of the time steps and pathways before interaction, (i.e. equilibrium probability)
+			~ lim t --> 0 
+		- variable time step (event space)
+			- choice of k is ultimately important, allows you to take smaller-smaller timescales into consideration
+			-define kinetics
+			- structure - process input ( T, P, V, initial position, etc) and kinetic input ** calculate transition probabilities (k_i) -- compute total rate, compute time (dt=-(ln(RN))/sum(k)), compute event, update surface, iterate to compute total rate
+			~sim proceed in event space therefore the system on average moves at fast time scales, always watching the fast 
+movement but wish to watch the slow event therefore longer total sim times are needed
+			
+			-approaches, null event ( some moves some do not move (grain boundary, stuck) ) 
+				-randomly pick site
+				-calculate rate at site
+				-normalize rates
+				-select a process or null event
+				-execute event
+				-update time and repeat
+
+SIMULATING SURFACE KINETICS
+	** how things adsorb, reaction with surface
+
+	-leap frog approach, skip over fast and time consuming events after equilibratied

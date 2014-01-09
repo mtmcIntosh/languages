@@ -1,0 +1,152 @@
+INTRO
+
+" The best programmers are up to 28 times more productive than the worst! " 
+
+- if you find an error, keep looking. 80% of error in 20% of the code.
+- to learn to be a great programmer, write programs and study great programs others have written.
+- for every 20% increase in the problem complexity, there is 100% increase in solution complexity
+- the two biggest causes of project failure are poor estimation and unstable requirements
+-development teams do not benefit from existing experience, they repeat mistakes 
+
+PARANOIA MAKES US PRODUCTIVE
+	IMPROVING QUALITY IMPROVES PRODUCTIVITY
+	THINK BEFORE YOU CODE - UNDERSTAND REQUIREMENTS
+	VALIDATE
+	REVIEW    - peer review
+	AUTOMATE
+
+
+
+
+"All work and no play…"
+	greatest productivity occurs in the first four to six hours
+	continuous work reduces cognitive function 25%
+	for every 24 hr
+
+______________________________________________________________
+BASH
+
+cat data3 | paste - data 1 data 2
+
+find m* | xargs head -n 1     ( do xargs in parallel) 
+find m* | parallel --dry-run cat  {}  #prints the operation that parallel will run
+find m* | parallel cat {}             # runs the operation in parallel
+
+number=$(wc -l) 
+seq $number 
+___________________________________________________________________________
+MAKE
+
+Makefiles that generate makefiles.. 
+Apache ANT
+Maven
+CMake Autoconf 
+
+_________________________________________________________________________
+PYTHON
+
+_______________________________________________________________________
+GIT
+
+git init - initialize empty git repository
+git add <file>  - interested in this  file to be trackedrepository
+git commit  -  commits changes to repository (-m for version message)
+
+git log - view history of changes
+
+git diff - difference betwween file  inrepository and current directory
+
+git status - summary of changes, if  no changes have been made, noth 2commit
+
+git config --global <color.diff auto>  
+git config --gloabl <core.editor vi>
+
+
+after creating repository on github..
+git remote add origin https://github.com/csgorham/repos-CSG.git
+git push -u origin master
+  
+git clone https://github.com/.........    to download and clone rep
+edit
+add
+commit
+push
+
+
+once changes from collaborators have been made
+git pull        - bring in changes
+
+git branch <>      - to create branch
+
+git checkout <>     - to checkout branch
+git checkout -b <>     - creates and checks out branch
+
+git merge <branch>   - to merge branch (needs to be in master) 
+git branch -d <>      - to delete branch 
+
+git branch === lets you know what branches exist
+
+_________________________________________________________________________
+SQL
+
+SELECT cols, cols, cols   (DISTINCT option) 
+SELECT col, col COUNT(*) [returns #of rows matching], AVG(col), SUM(col)
+FROM database
+ORDER BY column DESC or ASC
+WHERE col>=val AND col IS NOT NULL       (IS NOT NULL has to be before GROUP BY)
+GROUP BY col, col
+
+INSERT INTO database VALUES ('',NULL, '','')
+DELETE FROM databases WHERE col='value'
+
+CREATE table AS 	- to create 
+SELECT *FROM database
+WHERE ......
+
+DROP table		- to delete
+
+Joining tables together
+
+SELECT d.col, c.col, c.col
+FROM database1 d
+JOIN catabase2 c
+ON database1.col = database2.col
+
+string concatonation
+SELECT d.col, (d.col1 || " " d.col2) as keyword
+FROM database d
+JOIN database2 s
+ON keyword = d.col 
+
+
+SELECT s., ROUND((AVG()-m.mass)/m.mass,2) as difference  [2 for decimal places]
+ORDER BY ABS(difference) DESC
+
+___________________________________________________________________________
+TESTING
+
+nosetest       - runs an array of tests 
+
+_________________________________________________________________
+To Read:
+
+Making Software: What really works and why we believe it
+Software Engineering: facts and fallacies 
+Empirical Software Engineering
+Best kept secrets of peer code review - ask a friend for an hour
+
+"Why crunch modes doesn't work: six lessons", Evan Robinson
+http://www.igda.org/why-crunch-modes-doesnt-work-six-lessons
+
+software-carpentry.org/about/biblio.html  ***** reading list 
+software-carpentry.org/4.0/index          ***** online lessons 
+
+
+www.cochrane.org - largest collection of records of randomized controlled trials in the world
+
+info@software-carpentry.org
+info@softwarecarpentry.ac.uk
+
+
+
+
